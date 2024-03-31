@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hey there! 🤝
 
-<!--
-**arslantepeahsen/arslantepeahsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Ahsen Arslantepe.
+## Let's Connect! 🌐
+
+You can find me on various social media platforms:
+
+
+- 💼[LinkedIn](https://www.linkedin.com/in/ahsen-arslantepe/) 
+- 📸 [Instagram](https://www.instagram.com/ahsenaslant/) 
+
+
+Feel free to reach out! 
+
+## Languages and Technologies I Work With 💻
+
+Here are some of the programming languages and technologies I'm proficient in:
+- <img src="https://img.icons8.com/color/48/000000/html-5.png" width="24"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="24"> **HTML5 & CSS3**
+- <img src="https://img.icons8.com/color/48/000000/javascript.png" width="24"> **JavaScript**
+-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="24">**React**
+
+
+Feel free to explore my repositories to see projects related to these technologies!
+Thanks for stopping by! 😊
